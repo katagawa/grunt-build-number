@@ -26,6 +26,6 @@
     "load-grunt-tasks": "~4"
   },
   "dependencies": {
-    "findup-sync": "^2.0.0"
+    "findup-sync": "^3.0.0"
   }
 }
