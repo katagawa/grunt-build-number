@@ -1,6 +1,6 @@
 {
   "name": "grunt-build-number",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Grunt plugin for maintaining a build number in package.json (or other files). Based on grunt-build-number by Camille Reynders.",
   "homepage": "https://github.com/katagawa/grunt-build-number",
   "repository": "https://github.com/katagawa/grunt-build-number",
